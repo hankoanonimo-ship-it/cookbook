@@ -56,12 +56,7 @@ Me preocupo em começar algo bem, acredito nas boas decisões e boas praticas, f
 Concluir é o objetivo
 -->
 
-Bucket of cookbooks to help install and set softwares.
+Bucket of cookbooks to help install 
 
-## 💸 Donate (optional)
+[🙂
 
-If you find this docs helpful, you can buy me a coffee ☕️ via [PayPal] 🙂
-
-<a href="https://www.paypal.com/donate?hosted_button_id=68T73LEKPHQGU">
-  <img width="147" height="40" src="https://i.ibb.co/Z8Wd8Sn/paypal-badge.png" >
-</a>
